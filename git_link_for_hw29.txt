@@ -1,0 +1,1 @@
+https://github.com/AvazChynybaev/50k_frontend/blob/master/hw28/js/add_to_card.js
